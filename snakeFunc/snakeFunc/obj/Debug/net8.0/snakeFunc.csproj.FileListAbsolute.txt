@@ -1,0 +1,14 @@
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\bin\Debug\net8.0\snakeFunc.exe
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\bin\Debug\net8.0\snakeFunc.deps.json
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\bin\Debug\net8.0\snakeFunc.runtimeconfig.json
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\bin\Debug\net8.0\snakeFunc.dll
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\bin\Debug\net8.0\snakeFunc.pdb
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\obj\Debug\net8.0\snakeFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\obj\Debug\net8.0\snakeFunc.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\obj\Debug\net8.0\snakeFunc.AssemblyInfo.cs
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\obj\Debug\net8.0\snakeFunc.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\obj\Debug\net8.0\snakeFunc.dll
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\obj\Debug\net8.0\refint\snakeFunc.dll
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\obj\Debug\net8.0\snakeFunc.pdb
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\obj\Debug\net8.0\snakeFunc.genruntimeconfig.cache
+C:\Users\Dan\Documents\Github\games\snakeFunc\snakeFunc\obj\Debug\net8.0\ref\snakeFunc.dll

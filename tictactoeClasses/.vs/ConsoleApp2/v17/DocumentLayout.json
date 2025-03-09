@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\dan\\documents\\github\\games\\tictactoeclasses\\consoleapp2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\dan\\documents\\github\\games\\tictactoeclasses\\consoleapp2\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CB09B6-3A43-4FC0-893C-E4B21F8BA1C4}|ConsoleApp2Tests\\ConsoleApp2Tests.csproj|c:\\users\\dan\\documents\\github\\games\\tictactoeclasses\\consoleapp2tests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CB09B6-3A43-4FC0-893C-E4B21F8BA1C4}|ConsoleApp2Tests\\ConsoleApp2Tests.csproj|solutionrelative:consoleapp2tests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\dan\\documents\\github\\games\\tictactoeclasses\\consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\dan\\documents\\github\\games\\tictactoeclasses\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\dan\\documents\\github\\games\\tictactoeclasses\\consoleapp2\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\dan\\documents\\github\\games\\tictactoeclasses\\consoleapp2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C22B-55B3-4F22-BD3F-2611291ACC5F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2Tests\\GameTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2Tests\\GameTests.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2Tests\\GameTests.cs",
+              "RelativeToolTip": "ConsoleApp2Tests\\GameTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:18:17.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApp2.csproj",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeToolTip": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T18:06:04.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\Board.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Board.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\Board.cs",
+              "RelativeToolTip": "ConsoleApp2\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:06:00.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\InputHandler.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\InputHandler.cs",
+              "RelativeToolTip": "ConsoleApp2\\InputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:05:51.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\Game.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Game.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\Game.cs",
+              "RelativeToolTip": "ConsoleApp2\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:05:06.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Player.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\Player.cs",
+              "RelativeToolTip": "ConsoleApp2\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:04:50.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\tictactoeClasses\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:05:16.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

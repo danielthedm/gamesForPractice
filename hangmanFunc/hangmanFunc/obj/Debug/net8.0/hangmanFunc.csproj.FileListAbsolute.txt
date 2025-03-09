@@ -1,0 +1,14 @@
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\bin\Debug\net8.0\hangmanFunc.exe
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\bin\Debug\net8.0\hangmanFunc.deps.json
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\bin\Debug\net8.0\hangmanFunc.runtimeconfig.json
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\bin\Debug\net8.0\hangmanFunc.dll
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\bin\Debug\net8.0\hangmanFunc.pdb
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\obj\Debug\net8.0\hangmanFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\obj\Debug\net8.0\hangmanFunc.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\obj\Debug\net8.0\hangmanFunc.AssemblyInfo.cs
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\obj\Debug\net8.0\hangmanFunc.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\obj\Debug\net8.0\hangmanFunc.dll
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\obj\Debug\net8.0\refint\hangmanFunc.dll
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\obj\Debug\net8.0\hangmanFunc.pdb
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\obj\Debug\net8.0\hangmanFunc.genruntimeconfig.cache
+C:\Users\Dan\Documents\Github\games\hangmanFunc\hangmanFunc\obj\Debug\net8.0\ref\hangmanFunc.dll

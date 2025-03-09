@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|c:\\users\\dan\\documents\\github\\games\\snakeclasses\\snakeclasses\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|solutionrelative:snakeclasses\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|c:\\users\\dan\\documents\\github\\games\\snakeclasses\\snakeclasses\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|solutionrelative:snakeclasses\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|c:\\users\\dan\\documents\\github\\games\\snakeclasses\\snakeclasses\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|solutionrelative:snakeclasses\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|c:\\users\\dan\\documents\\github\\games\\snakeclasses\\snakeclasses\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|solutionrelative:snakeclasses\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|c:\\users\\dan\\documents\\github\\games\\snakeclasses\\snakeclasses\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|solutionrelative:snakeclasses\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|c:\\users\\dan\\documents\\github\\games\\snakeclasses\\snakeclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B5A28-7B05-4785-9838-877C3AA9E191}|snakeClasses\\snakeClasses.csproj|solutionrelative:snakeclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\InputHandler.cs",
+              "RelativeDocumentMoniker": "snakeClasses\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\InputHandler.cs",
+              "RelativeToolTip": "snakeClasses\\InputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:10:35.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\GameBoard.cs",
+              "RelativeDocumentMoniker": "snakeClasses\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\GameBoard.cs",
+              "RelativeToolTip": "snakeClasses\\GameBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:08:38.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\Food.cs",
+              "RelativeDocumentMoniker": "snakeClasses\\Food.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\Food.cs",
+              "RelativeToolTip": "snakeClasses\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:08:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\Snake.cs",
+              "RelativeDocumentMoniker": "snakeClasses\\Snake.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\Snake.cs",
+              "RelativeToolTip": "snakeClasses\\Snake.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:08:12.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SnakeGame.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\SnakeGame.cs",
+              "RelativeDocumentMoniker": "snakeClasses\\SnakeGame.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\SnakeGame.cs",
+              "RelativeToolTip": "snakeClasses\\SnakeGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:08:00.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\Program.cs",
+              "RelativeDocumentMoniker": "snakeClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Github\\games\\snakeClasses\\snakeClasses\\Program.cs",
+              "RelativeToolTip": "snakeClasses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:07:43.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
