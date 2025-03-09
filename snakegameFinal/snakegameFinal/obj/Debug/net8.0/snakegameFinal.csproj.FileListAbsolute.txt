@@ -1,0 +1,15 @@
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\bin\Debug\net8.0\snakegameFinal.exe
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\bin\Debug\net8.0\snakegameFinal.deps.json
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\bin\Debug\net8.0\snakegameFinal.runtimeconfig.json
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\bin\Debug\net8.0\snakegameFinal.dll
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\bin\Debug\net8.0\snakegameFinal.pdb
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\snakegameFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\snakegameFinal.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\snakegameFinal.AssemblyInfo.cs
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\snakegameFinal.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\snakegameFinal.sourcelink.json
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\snakegameFinal.dll
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\refint\snakegameFinal.dll
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\snakegameFinal.pdb
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\snakegameFinal.genruntimeconfig.cache
+C:\Users\Dan\Documents\Github\games\snakegameFinal\snakegameFinal\obj\Debug\net8.0\ref\snakegameFinal.dll

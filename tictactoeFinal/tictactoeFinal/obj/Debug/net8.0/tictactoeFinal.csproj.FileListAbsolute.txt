@@ -1,0 +1,15 @@
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\bin\Debug\net8.0\tictactoeFinal.exe
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\bin\Debug\net8.0\tictactoeFinal.deps.json
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\bin\Debug\net8.0\tictactoeFinal.runtimeconfig.json
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\bin\Debug\net8.0\tictactoeFinal.dll
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\bin\Debug\net8.0\tictactoeFinal.pdb
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\tictactoeFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\tictactoeFinal.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\tictactoeFinal.AssemblyInfo.cs
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\tictactoeFinal.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\tictactoeFinal.sourcelink.json
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\tictactoeFinal.dll
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\refint\tictactoeFinal.dll
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\tictactoeFinal.pdb
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\tictactoeFinal.genruntimeconfig.cache
+C:\Users\Dan\Documents\Github\games\tictactoeFinal\tictactoeFinal\obj\Debug\net8.0\ref\tictactoeFinal.dll
